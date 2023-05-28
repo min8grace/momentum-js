@@ -1,5 +1,5 @@
 ## momentum-js
-Clone-coded the Chrome Extention Momentum in Javascript
+Implemented the Chrome Extension Momentum in JavaScript
 
 ## Sample image
 ![Momentum](img/sample.jpg "Momentum")
