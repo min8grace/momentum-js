@@ -8,24 +8,24 @@ Clone-coded the Chrome Extention Momentum in Javascript
 
 Html, Javascript, CSS
 
-## Decription
+## Description
 > Greeting Message
 
 User info is stored in the localstorage.
 
-Greeting message is shown if user info exists in the localstorage.
+The Greeting message is shown if user info exists in the localstorage.
 
-Otherwise, log-in form is shown.
+Otherwise, the log-in form is shown.
 
 > Clock
 
 Date and time is represented with the Date object.
 
-Timer has been implmented by setInterval and getClock function to keep 1 sec interval.
+The timer has been implemented by setInterval and getClock function to keep 1-sec interval.
 
 > Weather
 
-*openweathermap* API has been hooked up to represent realtime location, weather and tempurature info.
+*OpenWeatherMap* API has been hooked up to represent real-time location, weather and temperature info.
 
 > To-do List
 
@@ -35,11 +35,11 @@ The to-do info is shown from the localstorage.
 
 > Image
 
-The image is selected randomly by random() function in the Math library from an image array stored
+The image is selected randomly by the random() function in the Math library from an image array stored
 
 > Quotes
 
-The quote is selected randomly by random() function in the Math library from an image array stored
+The quote is selected randomly by the random() function in the Math library from an image array stored
 
 ## Links(Git-hub page)
 
