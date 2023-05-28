@@ -27,6 +27,9 @@ function clearGreetingsAndTodo(){
     greeting.classList.add(HIDDEN_CLASSNAME);
     todoForm.classList.add(HIDDEN_CLASSNAME);
     todoList.classList.add(HIDDEN_CLASSNAME);
+    console.log(loginInput);
+    console.log(loginInput.innerText);
+    loginInput.value = "";
 }
 
 const savedUsername = localStorage.getItem(USERNAME_KEY);
